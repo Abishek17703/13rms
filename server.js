@@ -67,7 +67,7 @@ app.post('/submit-form', upload.single('attachment'), async (req, res) => {
                     },
                     To: [
                         {
-                            Email: 'abishek3ddesigner@gmail.com',
+                            Email: 'abishekwebdesign@gmail.com',
                             Name: 'Recipient Name',
                         },
                     ],
